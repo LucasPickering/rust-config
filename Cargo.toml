@@ -1,8 +1,11 @@
 [package]
+name = "TODO"
+description = "TODO"
 authors = ["Lucas Pickering <lucas@lucaspickering.me>"]
 edition = "2021"
 license = "MIT"
 # Keep in sync w/ rust-toolchain.toml
+# TODO downgrade with cargo-msrv
 rust-version = "1.76.0"
 
 # The profile that 'cargo dist' will build with
